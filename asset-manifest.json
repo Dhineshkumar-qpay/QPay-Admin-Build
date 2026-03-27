@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Qpay-Admin/static/css/main.7558bf32.css",
+    "main.js": "/Qpay-Admin/static/js/main.fc057f80.js",
+    "static/js/453.c2385e4f.chunk.js": "/Qpay-Admin/static/js/453.c2385e4f.chunk.js",
+    "index.html": "/Qpay-Admin/index.html",
+    "main.7558bf32.css.map": "/Qpay-Admin/static/css/main.7558bf32.css.map",
+    "main.fc057f80.js.map": "/Qpay-Admin/static/js/main.fc057f80.js.map",
+    "453.c2385e4f.chunk.js.map": "/Qpay-Admin/static/js/453.c2385e4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7558bf32.css",
+    "static/js/main.fc057f80.js"
+  ]
+}
