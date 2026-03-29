@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Qpay-Admin-Build/static/css/main.c3e1cded.css",
-    "main.js": "/Qpay-Admin-Build/static/js/main.4f3e45e4.js",
-    "static/js/453.c2385e4f.chunk.js": "/Qpay-Admin-Build/static/js/453.c2385e4f.chunk.js",
-    "index.html": "/Qpay-Admin-Build/index.html",
-    "main.c3e1cded.css.map": "/Qpay-Admin-Build/static/css/main.c3e1cded.css.map",
-    "main.4f3e45e4.js.map": "/Qpay-Admin-Build/static/js/main.4f3e45e4.js.map",
-    "453.c2385e4f.chunk.js.map": "/Qpay-Admin-Build/static/js/453.c2385e4f.chunk.js.map"
+    "main.css": "/QPay-Admin-Build/static/css/main.c3e1cded.css",
+    "main.js": "/QPay-Admin-Build/static/js/main.4f3e45e4.js",
+    "static/js/453.c2385e4f.chunk.js": "/QPay-Admin-Build/static/js/453.c2385e4f.chunk.js",
+    "index.html": "/QPay-Admin-Build/index.html",
+    "main.c3e1cded.css.map": "/QPay-Admin-Build/static/css/main.c3e1cded.css.map",
+    "main.4f3e45e4.js.map": "/QPay-Admin-Build/static/js/main.4f3e45e4.js.map",
+    "453.c2385e4f.chunk.js.map": "/QPay-Admin-Build/static/js/453.c2385e4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3e1cded.css",
